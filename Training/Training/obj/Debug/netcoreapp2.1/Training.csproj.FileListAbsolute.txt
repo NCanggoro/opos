@@ -1,0 +1,14 @@
+C:\Users\Asynch\source\repos\Training\Training\bin\Debug\netcoreapp2.1\Training.deps.json
+C:\Users\Asynch\source\repos\Training\Training\bin\Debug\netcoreapp2.1\Training.runtimeconfig.json
+C:\Users\Asynch\source\repos\Training\Training\bin\Debug\netcoreapp2.1\Training.runtimeconfig.dev.json
+C:\Users\Asynch\source\repos\Training\Training\bin\Debug\netcoreapp2.1\Training.dll
+C:\Users\Asynch\source\repos\Training\Training\bin\Debug\netcoreapp2.1\Training.pdb
+C:\Users\Asynch\source\repos\Training\Training\obj\Debug\netcoreapp2.1\Training.csproj.CoreCompileInputs.cache
+C:\Users\Asynch\source\repos\Training\Training\obj\Debug\netcoreapp2.1\Training.RazorAssemblyInfo.cache
+C:\Users\Asynch\source\repos\Training\Training\obj\Debug\netcoreapp2.1\Training.RazorAssemblyInfo.cs
+C:\Users\Asynch\source\repos\Training\Training\obj\Debug\netcoreapp2.1\Training.AssemblyInfoInputs.cache
+C:\Users\Asynch\source\repos\Training\Training\obj\Debug\netcoreapp2.1\Training.AssemblyInfo.cs
+C:\Users\Asynch\source\repos\Training\Training\obj\Debug\netcoreapp2.1\Training.RazorTargetAssemblyInfo.cache
+C:\Users\Asynch\source\repos\Training\Training\obj\Debug\netcoreapp2.1\Training.dll
+C:\Users\Asynch\source\repos\Training\Training\obj\Debug\netcoreapp2.1\Training.pdb
+C:\Users\Asynch\source\repos\Training\Training\obj\Debug\netcoreapp2.1\Training.csprojAssemblyReference.cache
