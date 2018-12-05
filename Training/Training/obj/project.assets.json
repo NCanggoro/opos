@@ -12773,30 +12773,28 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Asynch\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/home/bigdicka/.nuget/packages/": {},
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asynch\\source\\repos\\Training\\Training\\Training.csproj",
+      "projectUniqueName": "/home/bigdicka/Documents/dotnet/api/opos1/opos/Training/Training/Training.csproj",
       "projectName": "Training",
-      "projectPath": "C:\\Users\\Asynch\\source\\repos\\Training\\Training\\Training.csproj",
-      "packagesPath": "C:\\Users\\Asynch\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asynch\\source\\repos\\Training\\Training\\obj\\",
+      "projectPath": "/home/bigdicka/Documents/dotnet/api/opos1/opos/Training/Training/Training.csproj",
+      "packagesPath": "/home/bigdicka/.nuget/packages/",
+      "outputPath": "/home/bigdicka/Documents/dotnet/api/opos1/opos/Training/Training/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Asynch\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/home/bigdicka/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

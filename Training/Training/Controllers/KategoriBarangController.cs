@@ -62,13 +62,16 @@ namespace Training.Controllers
         }
 
         [HttpPut]
-        public async Task<IActionResult> Update(int Id,string NamaKategori)
+        public async Task<IActionResult> Update(UpdateKategoriBarang updateKategori)
         {
-            var model = await _context.KategoriBarang.FirstOrDefaultAsync(x => x.IdKategori == Id);
+            if(!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            var model = await _context.KategoriBarang.FirstOrDefaultAsync(x => x.IdKategori == updateKategori.IdKategori );
             if (model == null)
                 return StatusCode(204, "No Content");
 
-            model.NamaKategori = NamaKategori;
+            model.NamaKategori = updateKategori.NamaKategori;
             await _context.SaveChangesAsync();
 
             return StatusCode(200, "Updated");
